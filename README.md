@@ -34,6 +34,10 @@ Import required libraries
    
 ---
 
+**File:** [CVaR](cVaR.ipynb)
+
+---
+
 ## Step 1: Get stock data
 
 Use 90 stocks in the S&P 100 index. Grab the data and compute the returns using the pct_change function.
